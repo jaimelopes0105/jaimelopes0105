@@ -25,4 +25,12 @@ My work ranges from server-side logic and API design to full system integration 
 
 ---
 
+## 📊 GitHub Stats
+
+![Jaime's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jaimelopes0105&show_icons=true&theme=dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jaimelopes0105&layout=compact&theme=dark&hide_border=true)
+
+---
+
 *Always building. Always improving.*
