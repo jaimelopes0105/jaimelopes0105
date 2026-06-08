@@ -1,4 +1,4 @@
-# Hi, I'm Jaime 👋
+# Hi, I'm Jaime Lopes 👋
 
 Backend engineer & systems architect with experience building corporate platforms and production software end-to-end.
 
